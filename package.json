@@ -1,0 +1,23 @@
+{
+  "name": "devtools",
+  "version": "1.0.0",
+  "description": "DevTools Compiler Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKamaev/DevTools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexKamaev/DevTools/issues"
+  },
+  "homepage": "https://github.com/AlexKamaev/DevTools#readme",
+  "dependencies": {
+    "testcafe": "file:testcafe-1.18.6.tgz"
+  }
+}
